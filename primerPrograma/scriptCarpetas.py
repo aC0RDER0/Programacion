@@ -1,6 +1,7 @@
 # Rutas y archivos
 import os
 import shutil
+import tkinter
 
 # Tiempo
 import time
